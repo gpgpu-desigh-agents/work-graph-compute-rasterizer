@@ -1,0 +1,8 @@
+libs/Cauldron/libs/DXC/bin/dxcompiler.dll filter=lfs diff=lfs merge=lfs -text
+libs/Cauldron/libs/DXC/bin/dxc.exe filter=lfs diff=lfs merge=lfs -text
+libs/Cauldron/libs/DXC/bin/dxil.dll filter=lfs diff=lfs merge=lfs -text
+libs/Cauldron/libs/DXC/bin/x64/dxcompiler.dll filter=lfs diff=lfs merge=lfs -text
+libs/Cauldron/libs/DXC/bin/x64/dxc.exe filter=lfs diff=lfs merge=lfs -text
+libs/Cauldron/libs/DXC/bin/x64/dxil.dll filter=lfs diff=lfs merge=lfs -text
+libs/Cauldron/libs/DXCwg/*.exe filter=lfs diff=lfs merge=lfs -text
+libs/Cauldron/libs/DXCwg/*.dll filter=lfs diff=lfs merge=lfs -text
